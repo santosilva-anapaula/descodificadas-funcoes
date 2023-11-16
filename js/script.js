@@ -20,6 +20,4 @@ function caulculaMedia() {
     }else{
         alert("Digite números válidos");
     }
-
-    console.log(soma);
 }
